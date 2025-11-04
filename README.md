@@ -13,7 +13,7 @@
   
 - This program will be able to track wrongly quessed answers.
   
-- Shows the correct vocabulary word if guessed incorrectly.
+- Shows the correct vocabulary word and/or definition if guessed incorrectly.
 
 - Users will be able to add in their own terms and definitions to practice with. 
 
