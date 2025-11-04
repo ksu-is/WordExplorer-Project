@@ -5,15 +5,13 @@
 <h2>Features
 <h4>- Two options to choose from: Matching Game, or Fill in the Blank.
   
-- Beginner, intermediate, and advanced level selection provided.
+- Difficulty Levels: Beginner, intermediate, and advanced. 
   
 - Fill in the blank questions with vocabulary words.
   
 - Matching terms with definitions.
   
-- This program will be able to track wrongly quessed answers.
-  
-- Shows the correct vocabulary word and/or definition if guessed incorrectly.
+- Answer Tracking: This program will be able to track wrongly quessed answers and show the correct vocabulary word along with the definition if guessed incorrectly.
 
-- Users will be able to add in their own terms and definitions to practice with. 
+- Custom Practice List: Users will be able to add in their own terms and definitions to practice with. 
 
