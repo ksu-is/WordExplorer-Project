@@ -1,4 +1,4 @@
-<h2>Tasks
+<h2>Tasks to complete for this project
 
 <h4> 
 [x] Find and sample similar existing repositories.
@@ -7,6 +7,5 @@
 
 [x] Create code for Game structure.
 
-[ ] Continue testing and making sure the code works smoothly.
+[ ] Continue testing and making sure the code works smoothly (in progress). 
 
-[ ] Continue to make changes and run the code. 
