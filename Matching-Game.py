@@ -11,7 +11,8 @@ class VocabGame:
             {"word": "meticulous", "definition": "showing great attention to detail", "level": "intermediate"},
             {"word": "benevolent", "definition": "well-meaning and kindly", "level": "intermediate"},
             {"word": "juxtapose", "definition": "place side by side for contrasting effect", "level": "advanced"},
-            {"word": "verbose", "definition": "Sluggish or inactive", "level": "advanced"},
+            {"word": "verbose", "definition": "To speak in a vague way to mislead", "level": "advanced"},
+            {"word": "Equivocate", "definition": "Sluggish or inactive", "level": "advanced"},
             {"word": "Lethargic", "definition": "persistent, determined", "level": "advanced"},
             {"word": "tenacious", "definition": "persistent, determined", "level": "advanced"},
         ]
