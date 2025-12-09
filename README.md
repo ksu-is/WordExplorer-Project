@@ -3,7 +3,7 @@
 
 <h4>A fun python based program that teaches users new terms and definitions with mini games, or quizzes to help expand their vocabulary. 
 <h2>Features
-<h4>- Two options to choose from: Matching Game, or Fill in the Blank.
+<h4>- Matching Game
   
 - Difficulty Levels: Beginner, intermediate, and advanced. 
   
